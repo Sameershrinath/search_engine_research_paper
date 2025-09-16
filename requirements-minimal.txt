@@ -1,0 +1,21 @@
+# SGVU Store - Minimal Requirements
+# Essential packages only - other dependencies will be installed automatically
+
+# Core Web Framework
+streamlit==1.49.1
+
+# Search Engine
+elasticsearch==9.1.0
+
+# Machine Learning & NLP
+sentence-transformers==3.0.1
+
+# Data Processing
+pandas==2.3.2
+numpy==1.26.4
+
+# HTTP Client
+httpx==0.27.0
+
+# Utilities
+tqdm==4.67.1
